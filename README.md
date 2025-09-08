@@ -125,3 +125,21 @@ Slack, USOS
 | 5 | Petrov, N. B., Serapio-García, G., & Rentfrow, J. (2024) | [Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis.](https://arxiv.org/abs/2405.07248) | Artykuł ten bada, czy duże modele językowe (LLM) są w stanie symulować ludzkie zachowania i osobowości. Wykorzystuje rygorystyczne metodologie psychometryczne do oceny, czy LLM mogą naśladować latentne konstrukty psychologiczne, które wpływają na zachowania w różnych zadaniach. Badacze użyli szablonu do zapytań, który zawierał instrukcję dotyczącą osobowości, opis persony, instrukcję testową, treść pytań. |
 | 10 | Kosinski, M., (2024) | [Evaluating large language models in theory of mind tasks](https://arxiv.org/pdf/2302.02083) | Badanie teorii umysłu różnych LLMów | 
 
+# Punktacja za omówienie literatury (12 pkt)
+Ogólne streszczenie artykułu - 2 pkt
+Zastosowane metody - 2 pkt
+Przeprowadzone eksperymenty - 2  pkt
+Wyniki i wnioski - 2 pkt
+Limitations/ future works (na tym bazujemy plan badawczy do projektu) - 3 pkt
+O autorach i ich backgroundzie - 1 pkt
+Czas na prezentację literatury: 20min prezentacja + 5min pytania
+# Punktacja za KM1 (10 pkt)
+Opracowanie planu badawczego: 1-2 strony A4  (w sumie 8 pkt, podzielone jak poniżej)
+Pytanie badawcze - 2 pkt
+Opis wykorzystanych modeli - 1.5 pkt
+Opis promptów - 1.5 pkt
+Opis koncepcji osobowości - 2 pkt
+Podział pracy między członków zespołu - 1 pkt
+założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1)
+zaprezentowanie planu badawczego podczas zajęć 15.04: 10-15min na zespół - 2 pkt
+
